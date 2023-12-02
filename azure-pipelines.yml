@@ -1,9 +1,7 @@
 trigger:
-  batch: true
+  - '*'
 pool:
   name: Default
-  demands:
-  - npm
 
 variables:
   buildConfiguration: 'Release'
