@@ -1,11 +1,5 @@
 trigger:
-<<<<<<< HEAD
 - '*'
-=======
-  - '*'
-pool:
-  name: 'Default'
->>>>>>> 90b168546e1a7c391a527bf03c2cbf3387c00bbb
 
 variables:
   buildConfiguration: 'Release'
